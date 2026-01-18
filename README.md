@@ -25,7 +25,7 @@ In short, this task is about building a real-world project that is technically s
 
 ## OUTPUT-
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4bdce412-90d9-4ec8-9978-f64b8fc2bcf6" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/48e49be6-254a-4d84-9530-fcffecffa3db" />
 
 
 
